@@ -1,0 +1,83 @@
+body{
+	background-color: darkgray;
+	font-family: Arial, Helvetica, sans-serif;
+	margin: 0;
+	padding: 0;
+}
+.topo{
+	height: 40px;
+	background-color: darkorange;
+}
+.menu{
+	height: 70px;
+	background-color: wheat;
+}
+
+.banner{
+	background-color: white;
+	padding: 0 !important;
+	margin: 0 !important;
+}
+
+.img-banner{
+	width: 100%;
+}
+
+.cx{
+	margin-left: 5%;
+}
+.img-produtos{
+	margin: 2.5%;
+	border-radius: 15px;
+	width: 95%;
+	
+}
+.cxs{
+	background-color: dodgerblue;
+	height: auto;
+	border-radius: 15px;
+	margin-right: 2%;
+	margin-top: 1%;
+	padding: 0 !important;
+}
+.title {
+	margin: 2.5%;
+	font-weight: bold;
+}
+
+.insigner{
+	background-color: beige;
+	height: auto;
+	border-radius: 15px;
+	margin-top: 0.8%;
+}
+
+.center{
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+}
+
+.sobre, .conta {
+	border: 0.5px solid darkorange;
+}
+
+.sobre {
+	border-top-left-radius: 14px;
+	border-bottom-left-radius: 14px;
+}
+.sobre p {
+	text-align: justify;
+	margin-left: 6%;
+	margin-right: 6%;
+}
+.conta {
+	border-top-right-radius: 14px;
+	border-bottom-right-radius: 14px;
+}
+
+.rodape{
+	background-color: black;
+	height: 100px;
+	margin-top: 1%;
+}

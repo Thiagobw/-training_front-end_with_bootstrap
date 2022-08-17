@@ -1,0 +1,56 @@
+body{
+	font-family: Arial, Helvetica, sans-serif;
+	margin: 0;
+	padding: 0;
+	background-color: darkgray;
+}
+
+.row{
+	margin-right: 5%;
+	margin-left: 5%;
+}
+
+.cabecalho1{
+	background-color: blue;
+}
+
+.cabecalho2{
+	background-color: white;
+}
+
+.top{
+	height: 70px;
+}
+
+.banner{
+	background-color: black;
+	height: 210px;
+}
+
+.menu{
+	background-color: green;
+	height: 70px;
+}
+
+.c{
+	background-color: white;
+	height: 250px;
+	border-right: 1px solid black;
+	border-left: 1px solid black;
+}
+.p{
+		height: 220px;
+}
+.p1{
+	background-color: gray;
+}
+.p2{
+	background-color: blue;
+}
+
+.rodape{
+	background-color: black;
+	height: 200px;
+	margin-left: 5%;
+	margin-right: 5%;
+}
